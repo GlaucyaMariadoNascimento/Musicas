@@ -83,6 +83,7 @@ namespace Musicas
             Console.WriteLine("Quem te ensinou a sonhar?");
             Console.WriteLine("Quem te ensinou a sonhar?");
             Console.WriteLine("");
+            Console.ResetColor();
 
         }
     }
