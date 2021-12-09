@@ -33,6 +33,8 @@ namespace Musicas
             Console.WriteLine("Mas tenho vinte e poucos");
             Console.WriteLine("E não vou parar aqui");
             Console.WriteLine();
+            
+       
 
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("Quem te ensinou a sonhar?");
@@ -83,6 +85,8 @@ namespace Musicas
             Console.WriteLine("Quem te ensinou a sonhar?");
             Console.WriteLine("Quem te ensinou a sonhar?");
             Console.WriteLine("");
+            
+            Console.ReadKey();
 
         }
     }
